@@ -4,7 +4,7 @@
 
 ### Install Neovim
 
-['Neovim'](https://github.com/neovim/neovim/releases/tag/stable)
+[Neovim](https://github.com/neovim/neovim/releases/tag/stable)
 
 ### Install External Dependencies
 
@@ -68,12 +68,6 @@ nvim
 
 That's it! Lazy will install all the plugins you have. Use `:Lazy` to view
 the current plugin status. Hit `q` to close the window.
-
-#### Read The Friendly Documentation
-
-Read through the `init.lua` file in your configuration folder for more
-information about extending and exploring Neovim. That also includes
-examples of adding popularly requested plugins.
 
 
 ### Getting Started
